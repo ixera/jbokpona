@@ -1,0 +1,12 @@
+body {
+	background-color: #201d23;
+	color: #ffffff;
+}
+
+table {
+		border-collapse: collapse;
+}
+td {
+		border: 1px #444 solid;
+		padding: 0.2em;
+}
